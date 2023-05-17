@@ -180,7 +180,6 @@ g.typingUnderline rect {
   <animate attributeName="d" from="m34,-6 h0" to="m34,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Apple Chancery,cursive" font-size=".20em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
     PRIYANSH RUPERA
