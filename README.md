@@ -48,7 +48,7 @@
 <!-- ![](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp; -->
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-White?&style=flat&logo=Flask&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white))&nbsp;
+![Django](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![DOTNET-MVC](https://img.shields.io/badge/.NETMVC-White?&style=flat&logo=dotnetmvc&logoColor=white)&nbsp;
 ![DOTNET-CORE](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 <!-- ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp; -->
@@ -56,13 +56,13 @@
 ![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)&nbsp;
 ![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;\
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white) -->
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white))&nbsp;
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
 <!-- ![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\ -->
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black))&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 <!-- ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
