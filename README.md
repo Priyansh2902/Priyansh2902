@@ -49,14 +49,15 @@
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-White?&style=flat&logo=Flask&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-White?&style=flat&logo=Django&logoColor=white)&nbsp;
-![DOTNET-MVC](https://img.shields.io/badge/.NETMVC-White?&style=flat&logo=dotnetmvc&logoColor=white)&nbsp;/
-![DOTNET-CORE](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![DOTNET-MVC](https://img.shields.io/badge/.NETMVC-White?&style=flat&logo=dotnetmvc&logoColor=white)&nbsp;
+![DOTNET-CORE](https://img.shields.io/badge/dotnet-core-%23121011.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
 <!-- ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp; -->
 <!-- ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)&nbsp;
 ![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;\
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
+ ![GITHUB](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 <!-- ![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
