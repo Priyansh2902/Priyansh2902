@@ -48,7 +48,7 @@
 <!-- ![](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp; -->
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-White?&style=flat&logo=Flask&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-White?&style=flat&logo=Django&logoColor=white)&nbsp;
 ![DOTNET-MVC](https://img.shields.io/badge/.NETMVC-White?&style=flat&logo=dotnetmvc&logoColor=white)&nbsp;
 ![DOTNET-CORE](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 <!-- ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp; -->
